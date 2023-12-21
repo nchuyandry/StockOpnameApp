@@ -1,0 +1,56 @@
+<codestructure version="5.11">
+<phptree>
+<treenode node="Home;PHP:Class Name;Y:\opname\application\controllers\Home.php;f0;3;1;125;;;;vpos;;vCI_Controller;;c;;r;;d33,3;;b0,0;;m">
+<treenode node="__construct;PHP:Function Name;Y:\opname\application\controllers\Home.php;f8;4;2;14;;;;vpos;;v;;r;;d4,5;;b1,0;;m">
+</treenode>
+<treenode node="approval;PHP:Function Name;Y:\opname\application\controllers\Home.php;f8;57;2;66;;;;vpos;;v;;r;;d1,58;;b1,0;;m">
+</treenode>
+<treenode node="editrequest;PHP:Function Name;Y:\opname\application\controllers\Home.php;f8;67;2;70;;;;vpos;;v;;r;;d1,68;;b1,0;;m">
+</treenode>
+<treenode node="getbarcode;PHP:Function Name;Y:\opname\application\controllers\Home.php;f1;76;5;82;;;;vpos;;v;;r;;d1,77;;b0,0;;m">
+</treenode>
+<treenode node="getdata;PHP:Function Name;Y:\opname\application\controllers\Home.php;f1;71;2;75;;;;vpos;;v;;r;;d1,72;;b0,0;;m">
+</treenode>
+<treenode node="index;PHP:Function Name;Y:\opname\application\controllers\Home.php;f8;15;2;19;;;;vpos;;v;;r;;d1,16;;b1,0;;m">
+</treenode>
+<treenode node="input;PHP:Function Name;Y:\opname\application\controllers\Home.php;f8;20;2;24;;;;vpos;;v;;r;;d1,21;;b1,0;;m">
+</treenode>
+<treenode node="submitform;PHP:Function Name;Y:\opname\application\controllers\Home.php;f8;25;2;56;;;;vpos;;v;;r;;d1,26;;b1,0;;m">
+</treenode>
+<treenode node="updaterequest;PHP:Function Name;Y:\opname\application\controllers\Home.php;f4;83;2;123;;;;vpos;;v;;r;;d4,84;;b0,0;;m">
+</treenode>
+</treenode>
+<treenode node="Login;PHP:Class Name;Y:\opname\application\controllers\Login.php;f0;3;1;60;;;;vpos;;vCI_Controller;;c;;r;;d0,4;;b0,0;;m">
+<treenode node="__construct;PHP:Function Name;Y:\opname\application\controllers\Login.php;f8;5;2;11;;;;vpos;;v;;r;;d1,6;;b1,0;;m">
+</treenode>
+<treenode node="dologin;PHP:Function Name;Y:\opname\application\controllers\Login.php;f8;16;2;53;;;;vpos;;v;;r;;d1,17;;b1,0;;m">
+</treenode>
+<treenode node="index;PHP:Function Name;Y:\opname\application\controllers\Login.php;f8;12;2;15;;;;vpos;;v;;r;;d1,13;;b1,0;;m">
+</treenode>
+<treenode node="logout;PHP:Function Name;Y:\opname\application\controllers\Login.php;f8;54;2;59;;;;vpos;;v;;r;;d1,55;;b1,0;;m">
+</treenode>
+</treenode>
+<treenode node="Modb;PHP:Class Name;Y:\opname\application\models\Modb.php;f0;3;1;79;;;;vpos;;vCI_Model;;c;;r;;d28,3;;b0,0;;m">
+<treenode node="__construct;PHP:Function Name;Y:\opname\application\models\Modb.php;f8;5;2;12;;;;vpos;;v;;r;;d1,6;;b1,0;;m">
+</treenode>
+<treenode node="baso2022;PHP:Function Name;Y:\opname\application\models\Modb.php;f8;29;2;33;;;;vpos;;v;;r;;d1,30;;b1,0;;m">
+</treenode>
+<treenode node="checksimpan;PHP:Function Name;Y:\opname\application\models\Modb.php;f8;34;2;45;;;;vpos;;v;;r;;d1,35;;b1,0;;mbarcode;;pdata;;p">
+</treenode>
+<treenode node="get_by_id;PHP:Function Name;Y:\opname\application\models\Modb.php;f8;75;5;78;;;;vpos;;v;;r;;d1,76;;b1,0;;mtable;;pbarcode;;p">
+</treenode>
+<treenode node="getdepo;PHP:Function Name;Y:\opname\application\models\Modb.php;f1;23;2;27;;;;vpos;;v;;r;;d1,24;;b0,0;;m">
+</treenode>
+<treenode node="login;PHP:Function Name;Y:\opname\application\models\Modb.php;f8;13;2;22;;;;vpos;;v;;r;;d1,14;;b1,0;;mdata;;p">
+</treenode>
+<treenode node="simpan;PHP:Function Name;Y:\opname\application\models\Modb.php;f8;46;2;49;;;;vpos;;v;;r;;d1,47;;b1,0;;mdata;;p">
+</treenode>
+<treenode node="so2021;PHP:Function Name;Y:\opname\application\models\Modb.php;f8;65;2;74;;;;vpos;;v;;r;;d1,66;;b1,0;;m">
+</treenode>
+<treenode node="ticketperson;PHP:Function Name;Y:\opname\application\models\Modb.php;f8;55;2;64;;;;vpos;;v;;r;;d1,56;;b1,0;;m">
+</treenode>
+<treenode node="update;PHP:Function Name;Y:\opname\application\models\Modb.php;f8;50;2;54;;;;vpos;;v;;r;;d1,51;;b1,0;;mid;;pdata;;p">
+</treenode>
+</treenode>
+</phptree>
+</codestructure>
